@@ -73,10 +73,10 @@ function Contact() {
 				<div className="container">
 					<Sectiontitle title="Contactez Moi" />
 					<div className="row">
-						<div className="col-lg-6">
-							<div className="mi-contact-formwrapper">
-								<h4>Restons en contact</h4>
-								<form
+						{/* <div className="col-lg-6">
+							<div className="mi-contact-formwrapper"> */}
+						{/* <h4>Restons en contact</h4> */}
+						{/* <form
 									action="mailto:garyh170797@gmail.com"
 									className="mi-form mi-contact-form"
 									onSubmit={submitHandler}
@@ -127,11 +127,11 @@ function Contact() {
 											ENVOYEZ MOI UN MAIL
 										</button>
 									</div>
-								</form>
-								{handleAlerts()}
-							</div>
-						</div>
-						<div className="col-lg-6">
+								</form> */}
+						{handleAlerts()}
+						{/* </div>
+						</div> */}
+						<div className="col-lg-12">
 							<div className="mi-contact-info">
 								{!phoneNumbers ? null : (
 									<div className="mi-contact-infoblock">
