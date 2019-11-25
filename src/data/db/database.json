@@ -1,0 +1,311 @@
+{
+	"information": {
+		"name": "Gary HASSAN",
+		"aboutContent": "Je suis un développeur Front-End Javascript. Je crée des sites et applications web responsive. Je sais également créer des applications mobiles mutltiplateformes compatibles avec iOS et Android.",
+		"age": 22,
+		"phone": "06 51 28 38 67",
+		"nationality": "Français",
+		"language": "Français et Anglais",
+		"email": "garyh170797@gmail.com",
+		"address": "2 rue Baudin, 92300 Levallois-Perret, France",
+		"freelanceStatus": "Available",
+		"socialLinks": {
+			"facebook": "",
+			"twitter": "",
+			"pinterest": "",
+			"behance": "",
+			"linkedin": "https://linkedin.com/in/garyhassan/",
+			"dribbble": "",
+			"github": "https://github.com/GaryHassan"
+		},
+		"brandImage": "./images/brand-image.jpeg",
+		"aboutImage": "./images/about-image.jpg",
+		"aboutImageLg": "./images/about-image-lg.jpg",
+		"cvfile": "./files/CV.pdf"
+	},
+	"services": [
+		{
+			"title": "Développement Web",
+			"icon": "code",
+			"details": "Je développe des sites et applications web en utilisant le langage Javascript, j'utilise le framework React JS pour le Front-End et Node JS pour le Back-End."
+		},
+		{
+			"title": "Applications Mobiles",
+			"icon": "mobile",
+			"details": "Je développe des applications mobiles multiplateformes en utilisant le framework Javascript, React Native. Ces applications sont compatibles sur tous les systèmes d'exploitations et possède une grande quantité de librairies additionnelles."
+		}
+	],
+	"reviews": [
+		{
+			"id": 1,
+			"content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam, aliquid maxime tempora.",
+			"author": {
+				"name": "Burdette Turner",
+				"designation": "Web Developer, Abc Company"
+			}
+		},
+		{
+			"id": 2,
+			"content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
+			"author": {
+				"name": "Susan Yost",
+				"designation": "Client"
+			}
+		},
+		{
+			"id": 3,
+			"content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+			"author": {
+				"name": "Irving Feeney",
+				"designation": "Fiverr Client"
+			}
+		}
+	],
+	"skills": [
+		{
+			"title": "Javascript",
+			"value": 80
+		},
+		{
+			"title": "React JS",
+			"value": 70
+		},
+		{
+			"title": "React Native",
+			"value": 60
+		},
+
+		{
+			"title": "Node JS",
+			"value": 65
+		},
+		{
+			"title": "Git Bash",
+			"value": 60
+		},
+		{
+			"title": "Mongo DB",
+			"value": 30
+		}
+	],
+	"portfolios": [
+		{
+			"id": 1,
+			"title": "Rate Exchange",
+			"language": "React JS",
+			"project": "personnel",
+			"subtitle": "Un comparateur de devises avec Redux.",
+			"imageUrl": "./images/portfolio-image-1.jpg",
+			"largeImageUrl": [ "./images/portfolio-image-1-lg.jpg" ],
+			"url": "https://github.com/GaryHassan/Rate-Exchange-REDUX",
+			"click": "Cliquez pour le lien Github du projet"
+		},
+		{
+			"id": 2,
+			"title": "Chat Box",
+			"language": "React JS",
+			"project": "personnel",
+			"subtitle": "Un système de messagerie instantanée.",
+			"imageUrl": "./images/portfolio-image-2.jpg",
+			"largeImageUrl": [ "./images/portfolio-image-2-lg.jpg" ],
+			"url": "https://github.com/GaryHassan/Chat-Box",
+			"click": "Cliquez pour le lien Github du projet"
+		},
+		{
+			"id": 3,
+			"title": "Netflix des bandes annonces",
+			"language": "React JS",
+			"project": "personnel",
+			"subtitle": "Une application web permettant de voir toutes les bandes annonces des films à l'affiche au cinéma.",
+			"imageUrl": "./images/portfolio-image-4.jpg",
+			"largeImageUrl": [ "./images/portfolio-image-4-lg.jpg" ],
+			"url": "https://github.com/GaryHassan/Netflix-React",
+			"click": "Cliquez pour le lien Github du projet"
+		},
+		{
+			"id": 4,
+			"title": "E-Commerce ZARA",
+			"language": "PHP",
+			"project": "étudiant",
+			"subtitle": "Site e-commerce de la marque Zara dans le cadre du BTS SIO.",
+			"imageUrl": "./images/portfolio-image-3.jpg",
+			"largeImageUrl": [ "./images/portfolio-image-3-lg.jpg" ],
+			"url": "https://github.com/GaryHassan/ecommercezara-CODE",
+			"click": "Cliquez pour le lien Github du projet"
+		},
+		{
+			"id": 5,
+			"title": "inFoot",
+			"language": "React JS, Node JS",
+			"project": "étudiant",
+			"subtitle": "Application web de résultats sportifs via une API.",
+			"imageUrl": "./images/portfolio-image-5.png",
+			"largeImageUrl": [ "./images/portfolio-image-3-lg.png" ],
+			"url": "https://github.com/GaryHassan/inFoot",
+			"click": "Cliquez pour le lien Github du projet"
+		},
+		{
+			"id": 6,
+			"title": "Movies & Me",
+			"language": "React Native",
+			"project": "personnel",
+			"subtitle": "Application de recherche de films via une API.",
+			"imageUrl": "./images/portfolio-image-6.png",
+			"largeImageUrl": [ "./images/portfolio-image-3-lg.png" ],
+			"url": "https://github.com/GaryHassan/MoviesAndMe",
+			"click": "Cliquez pour le lien Github du projet"
+		},
+		{
+			"id": 7,
+			"title": "Restaurant Meals",
+			"language": "React Native",
+			"project": "personnel",
+			"subtitle": "Application de recettes de cuisine détaillées.",
+			"imageUrl": "./images/portfolio-image-7.png",
+			"largeImageUrl": [ "./images/portfolio-image-3-lg.png" ],
+			"url": "https://github.com/GaryHassan/MealsNavigation",
+			"click": "Cliquez pour le lien Github du projet"
+		},
+		{
+			"id": 8,
+			"title": "Translator",
+			"language": "React JS, Node JS, Mongo DB",
+			"project": "professionnel",
+			"subtitle": "Traduction en direct en Speech-To-Text et Text-To-Speech avec des API Google Cloud.",
+			"imageUrl": "./images/portfolio-image-8.jpg",
+			"largeImageUrl": [ "./images/portfolio-image-3-lg.png" ],
+			"click": "Le code est privé car c'est un projet professionnel"
+		}
+	],
+	"experience": {
+		"workingExperience": [
+			{
+				"id": 1,
+				"year": "2018 - 2019",
+				"length": "1 an",
+				"position": "Développeur Web React JS",
+				"company": "onepoint. - 75016 Paris",
+				"details": [
+					{
+						"detail": "Formation React JS (Front-End) et Node JS (Back-End)."
+					},
+					{
+						"detail": "Formation React Native (applications mobiles iOS et Android)."
+					},
+					{
+						"detail": "Projet Translator en React, NodeJS et MongoDB : Traduction en direct en Speech-To-Text avec des API Google Cloud."
+					},
+					{
+						"detail": "Projet InFoot en React et NodeJS : réalisation d’un site dynamique de football avec l’utilisation d’une API consommable pour recevoir les données souhaitées et implémentation de React-Redux pour le store."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"year": "01/2018 - 02/2018",
+				"length": "2 mois",
+				"position": "Stagiaire en Développement Web Javascript",
+				"company": "onepoint. - Startup Bouge ta Boite - 75016 Paris",
+				"details": [
+					{
+						"detail": "Formation et apprentissage des langages Javascript et JQuery."
+					},
+					{
+						"detail": "Création d’une map de la France interactive et personnalisée. Utilisation de l'API Google Maps Platform."
+					},
+					{
+						"detail": "Intégration de la map dans le site de Bouge ta Boite."
+					}
+				]
+			},
+			{
+				"id": 3,
+				"year": "06/2018 - 07/2018",
+				"length": "2 mois",
+				"position": "Stagiaire en Programmation VBA",
+				"company": "onepoint. - 75016 Paris",
+				"details": [
+					{
+						"detail": " Apprentissage du langage Visual Basics for Applications (logiciel Office)."
+					},
+					{
+						"detail": "Automatisation des actions répétitives et création d'un nombre important d’opérations pour de les executer en une seule commande."
+					},
+					{
+						"detail": "Création d’une système filtrage d’une liste de noms de collaborateurs."
+					}
+				]
+			}
+		],
+		"educationExperience": [
+			{
+				"id": 1,
+				"year": "2019 - 2021",
+				"length": "2 ans",
+				"graduation": "MBA Chef de projet Développeur Digital",
+				"university": "Digital School of Paris - 75011 Paris",
+				"details": [
+					{
+						"detail": "Formation sur les différents langages Javascript, PHP, Java, Swift. Et les frameworks Angular JS et Symphony 3."
+					},
+					{
+						"detail": "Apprentissage d’analyse, modélisation et exécution du code d’un projet selon un cahier des charges tout en réalisant les tests unitaires et d’intégrations nécessaires."
+					},
+					{
+						"detail": "Formation sur la conception et la gestion d'un projet digital jusqu à son terme. La formation à pour clés nécessaires à la création d’un nouveau business model, à la conception et à l’intégration d’une stratégie digitale, à la gestion et au recrutement des profils nécessaires tout en maitrisant les concepts juridiques et financiers."
+					}
+				]
+			},
+			{
+				"id": 2,
+				"year": "2018 - 2019",
+				"length": "1 an",
+				"graduation": "Bachelor en Informatique et Programmation",
+				"university": "O.F.I ONE - 75015 Paris",
+				"details": [
+					{
+						"detail": "O.F.I. ONE opte volontairement pour des classes à effectif réduit, dans le but d’optimiser l’encadrement et le suivi personnalisé des élèves et garantir un enseignement de qualité. Cette proximité avec le corps professoral est un pilier dans le modèle éducatif de l’établissement."
+					},
+					{
+						"detail": "La professionnalisation est aussi inscrite dans l’ADN d’O.F.I. ONE. Ainsi, en proposant des formations en alternance, l’école permet à ses étudiants d’acquérir à la fois des connaissances théoriques solides mais aussi une expérience professionnelle significative."
+					}
+				]
+			},
+			{
+				"id": 3,
+				"year": "2016 - 2018",
+				"length": "2 ans",
+				"graduation": "BTS Services Informatiques aux Organisations - Option SLAM",
+				"university": "Institut Européen F2i - 94300 Vincennes",
+				"details": [
+					{
+						"detail": "Le BTS SIO doit permettre à l’étudiant de participer ou même d’initier la mise en place de solutions techniques d’infrastructures mais aussi d’applications logicielles. Il pourra aussi prendre la responsabilité de la maintenance et de l’évolution de ces solutions."
+					},
+					{
+						"detail": "Option SLAM pour solutions logicielles et applications métiers (SLAM) : Le candidat, obtenant le BTS SIO SLAM, sera en mesure de développer, entretenir et gérer les solutions applicatives de tout genre."
+					}
+				]
+			},
+			{
+				"id": 4,
+				"year": "2015-2016",
+				"length": "1 an",
+				"graduation": "Baccalauréat STMG - Option Systèmes d’Information de Gestion",
+				"university": "Lycée Auguste Renoir - 92600 Asnières",
+				"details": [
+					{
+						"detail": "Le BTS SIO doit permettre à l’étudiant de participer ou même d’initier la mise en place de solutions techniques d’infrastructures mais aussi d’applications logicielles. Il pourra aussi prendre la responsabilité de la maintenance et de l’évolution de ces solutions."
+					},
+					{
+						"detail": "Option SLAM pour solutions logicielles et applications métiers (SLAM) : Le candidat, obtenant le BTS SIO SLAM, sera en mesure de développer, entretenir et gérer les solutions applicatives de tout genre."
+					}
+				]
+			}
+		]
+	},
+	"contactInfo": {
+		"phoneNumbers": [ "+336 51 28 38 67" ],
+		"emailAddress": [ "garyh170797@gmail.com", "garyhassan@hotmail.fr" ],
+		"address": "2 rue Baudin, 92300 Levallois-Perret, France"
+	}
+}
